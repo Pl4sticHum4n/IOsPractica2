@@ -13,6 +13,7 @@
 		38DB36BE27BD4B0900FC2A3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38DB36BC27BD4B0900FC2A3B /* Main.storyboard */; };
 		38DB36C027BD4B0A00FC2A3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38DB36BF27BD4B0A00FC2A3B /* Assets.xcassets */; };
 		38DB36C327BD4B0A00FC2A3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38DB36C127BD4B0A00FC2A3B /* LaunchScreen.storyboard */; };
+		38DB36CC27BD4EF200FC2A3B /* ViewControllerDos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38DB36CB27BD4EF200FC2A3B /* ViewControllerDos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		38DB36BF27BD4B0A00FC2A3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		38DB36C227BD4B0A00FC2A3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		38DB36C427BD4B0A00FC2A3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38DB36CB27BD4EF200FC2A3B /* ViewControllerDos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				38DB36BF27BD4B0A00FC2A3B /* Assets.xcassets */,
 				38DB36C127BD4B0A00FC2A3B /* LaunchScreen.storyboard */,
 				38DB36C427BD4B0A00FC2A3B /* Info.plist */,
+				38DB36CB27BD4EF200FC2A3B /* ViewControllerDos.swift */,
 			);
 			path = Practica2;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				38DB36BB27BD4B0900FC2A3B /* ViewController.swift in Sources */,
 				38DB36B727BD4B0900FC2A3B /* AppDelegate.swift in Sources */,
 				38DB36B927BD4B0900FC2A3B /* SceneDelegate.swift in Sources */,
+				38DB36CC27BD4EF200FC2A3B /* ViewControllerDos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
